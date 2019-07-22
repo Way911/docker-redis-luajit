@@ -1,0 +1,3 @@
+[submodule "redis-luajit"]
+	path = redis-luajit
+	url = git://github.com/coleifer/redis-luajit.git
